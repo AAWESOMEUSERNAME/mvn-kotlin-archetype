@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.gugu</groupId>
-    <artifactId>kotlin</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>kotlin-based</artifactId>
+    <version>1.0.0</version>
 
     <properties>
         <kotlin.version>1.4.0-rc</kotlin.version>
